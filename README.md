@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://app.daily.dev/f1r3b1az3"><img src="https://api.daily.dev/devcards/1dfcd4c497b44ccaaeb42adea7c65da1.png?r=m52" width="400" alt="Srijan Koju's Dev Card"/></a>
 
 <!--
