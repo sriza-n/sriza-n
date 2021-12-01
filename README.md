@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/f1r3b1az3"><img src="https://github.com/sriza-n/sriza-n/blob/master/devcard.svg" width="400" alt="Srizan Kozu"/></a>
+<a href="https://app.daily.dev/f1r3b1az3"><img src="https://github.com/sriza-n/sriza-n/blob/main/devcard.svg" width="400" alt="Srizan Kozu"/></a>
 
 
 <!--
