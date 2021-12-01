@@ -1,4 +1,5 @@
-<a href="https://app.daily.dev/f1r3b1az3"><img src="https://api.daily.dev/devcards/1dfcd4c497b44ccaaeb42adea7c65da1.png?r=m52" width="400" alt="Srijan Koju's Dev Card"/></a>
+<a href="https://app.daily.dev/f1r3b1az3"><img src="https://github.com/sriza-n/sriza-n/blob/master/devcard.svg" width="400" alt="Srijan Koju's Dev Card"/></a>
+
 
 <!--
 **sriza-n/sriza-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
